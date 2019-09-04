@@ -11,7 +11,7 @@ namespace LABA1
         static void Main(string[] args)
         {
             string name;
-            Console.WriteLine("Enter you name");
+            Console.WriteLine("Enter you name ");
             name = Console.ReadLine();
             Console.WriteLine("Hello {0}", name);
             Console.ReadKey();

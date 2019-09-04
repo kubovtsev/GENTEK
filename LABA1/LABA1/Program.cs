@@ -13,7 +13,7 @@ namespace LABA1
             string first,last;
             Console.WriteLine("Enter you first name");
             first = Console.ReadLine();
-            Console.WriteLine("Enter you last name");
+            Console.WriteLine("Enter you last name ");
             last = Console.ReadLine();
             Console.WriteLine("Hello {0}{1}", first,last);
             Console.ReadKey();
